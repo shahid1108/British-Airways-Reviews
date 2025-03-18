@@ -20,3 +20,6 @@ This project provides an in-depth analysis of British Airways customer reviews, 
 ## 🛠️ Tools & Technologies Used
 - Tableau: For interactive data visualization.
 - Data Source: Customer reviews dataset.
+
+## Tableau Public dashboard
+- Click here to view the interactive Dashboard (https://public.tableau.com/app/profile/shahid.shaikh6835/favorites)
