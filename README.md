@@ -1,13 +1,19 @@
-## British Airways Reviews - Tableau Dashboard
+✈️ British Airways Reviews - Tableau Dashboard
+📌 Project Overview
+This project provides an in-depth analysis of British Airways customer reviews, focusing on key service aspects such as cabin staff service, entertainment, food & beverages, ground service, seat comfort, and overall value for money. Using an interactive Tableau dashboard, this analysis uncovers trends in customer satisfaction based on time, geography, and aircraft type.
 
-This project analyzes customer reviews of British Airways, focusing on various service aspects such as cabin staff service, entertainment, food & beverages, ground service, seat comfort, and overall value for money. The interactive Tableau dashboard visualizes trends in ratings over time, across different aircraft types, and by country.
+📊 Key Insights
+Overall Rating: 4.2 average rating.
+Lowest Rated Aspect: Entertainment (1.4 avg.), indicating a major area for improvement.
+Highest Rated Aircraft: Boeing 747-400 (4.7 avg. rating), suggesting higher customer satisfaction with this model.
+Geographical Trends: The world map visualization shows customer satisfaction varying across different countries.
+Time Series Analysis: Customer ratings have fluctuated over time, with noticeable dips in certain periods.
+📈 Dashboard Features
+✅ Time Series Analysis - View rating trends from 2016 to 2023.
+✅ Geographical Distribution - Interactive world map of country-wise ratings.
+✅ Aircraft Comparison - Compare customer satisfaction across different aircraft types.
+✅ Filter Options - Analyze by traveler type, seat type, and aircraft group.
 
-## 📊 Key Insights
-*Overall Rating: Average rating of 4.2.
-*Lowest Rated Aspect: Entertainment with an average rating of 1.4.
-*Highest Rated Aircraft: Boeing 747-400 with a 4.7 rating.
-*Geographical Analysis: The dashboard provides a world map view of customer ratings by country.
-
-## 🛠️ Tools Used
-Tableau: For data visualization.
-Data Source: Customer reviews dataset (mention the source if available).
+🛠️ Tools & Technologies Used
+Tableau: For interactive data visualization.
+Data Source: Customer reviews dataset (mention the source if applicable).
