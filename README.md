@@ -12,11 +12,11 @@ This project provides an in-depth analysis of British Airways customer reviews, 
 - Time Series Analysis: Customer ratings have fluctuated over time, with noticeable dips in certain periods.
 
 ## 📈 Dashboard Features
-✅ Time Series Analysis - View rating trends from 2016 to 2023.
-✅ Geographical Distribution - Interactive world map of country-wise ratings.
-✅ Aircraft Comparison - Compare customer satisfaction across different aircraft types.
-✅ Filter Options - Analyze by traveler type, seat type, and aircraft group.
+- Time Series Analysis - View rating trends from 2016 to 2023.
+- Geographical Distribution - Interactive world map of country-wise ratings.
+- Aircraft Comparison - Compare customer satisfaction across different aircraft types.
+- Filter Options - Analyze by traveler type, seat type, and aircraft group.
 
-🛠️ Tools & Technologies Used
-Tableau: For interactive data visualization.
-Data Source: Customer reviews dataset (mention the source if applicable).
+## 🛠️ Tools & Technologies Used
+- Tableau: For interactive data visualization.
+- Data Source: Customer reviews dataset.
